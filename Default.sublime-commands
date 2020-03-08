@@ -1,0 +1,158 @@
+[
+    {
+        "caption": "String Utilities: Expand Selection to Whole String",
+        "command": "string_utilities_expand_string"
+    },
+    {
+        "caption": "String Utilities: Convert Tabs to Spaces",
+        "command": "convert_tabs_to_spaces"
+    },
+    {
+        "caption": "String Utilities: Convert Spaces to Tabs",
+        "command": "convert_spaces_to_tabs"
+    },
+    {
+        "caption": "String Utilities: Convert Spaces to &nbsp; (Non-breaking space)",
+        "command": "convert_spaces_to_non_breaking"
+    },
+    {
+        "caption": "String Utilities: Convert Chars to HTML Entities",
+        "command": "convert_chars_to_html"
+    },
+    {
+        "caption": "String Utilities: Convert HTML Entities to Chars",
+        "command": "convert_html_to_chars"
+    },
+    {
+        "caption": "String Utilities: Convert camelCase <-> Underscores",
+        "command": "convert_camel_underscores"
+    },
+    {
+        "caption": "String Utilities: Convert camelCase <-> Dash",
+        "command": "convert_camel_dash"
+    },
+    {
+        "caption": "String Utilities: Convert PascalCase <-> Underscores",
+        "command": "convert_pascal_underscores"
+    },
+    {
+        "caption": "String Utilities: Convert Single Quotes To Double",
+        "command": "convert_single_quotes_to_double"
+    },
+    {
+        "caption": "String Utilities: Convert Double Quotes To Single",
+        "command": "convert_double_quotes_to_single"
+    },
+    {
+        "caption": "String Utilities: Encode as URL Notation",
+        "command": "url_encode"
+    },
+    {
+        "caption": "String Utilities: Decode from URL Notation",
+        "command": "url_decode"
+    },
+    {
+        "caption": "String Utilities: Convert To Unicode Notation",
+        "command": "convert_to_unicode_notation"
+    },
+    {
+        "caption": "String Utilities: Convert From Unicode Notation",
+        "command": "convert_from_unicode_notation"
+    },
+    {
+        "caption": "String Utilities: Convert To Base64",
+        "command": "convert_to_base64"
+    },
+    {
+        "caption": "String Utilities: Convert From Base64",
+        "command": "convert_from_base64"
+    },
+    {
+        "caption": "String Utilities: Convert To Hex",
+        "command": "convert_to_hex"
+    },
+    {
+        "caption": "String Utilities: Convert From Hex",
+        "command": "convert_from_hex"
+    },
+    {
+        "caption": "String Utilities: Convert HTML Color Hex To RGB",
+        "command": "convert_hex_to_rgb"
+    },
+    {
+        "caption": "String Utilities: Convert HTML Color RGB To Hex",
+        "command": "convert_rgb_to_hex"
+    },
+    {
+        "caption": "String Utilities: Calculate MD5",
+        "command": "convert_md5"
+    },
+    {
+        "caption": "String Utilities: Calculate SHA1",
+        "command": "convert_sha1"
+    },
+    {
+        "caption": "String Utilities: Calculate SHA224",
+        "command": "convert_sha224"
+    },
+    {
+        "caption": "String Utilities: Calculate SHA256",
+        "command": "convert_sha256"
+    },
+    {
+        "caption": "String Utilities: Calculate SHA384",
+        "command": "convert_sha384"
+    },
+    {
+        "caption": "String Utilities: Calculate SHA512",
+        "command": "convert_sha512"
+    },
+    {
+        "caption": "String Utilities: Convert Unixtime <-> Datetime",
+        "command": "convert_time_format"
+    },
+    {
+        "caption": "String Utilities: Insert Current Datetime",
+        "command": "insert_timestamp"
+    },
+    {
+        "caption": "String Utilities: Insert Password",
+        "command": "generate_password"
+    },
+    {
+        "caption": "String Utilities: Insert Password with spec symbols",
+        "command": "generate_password_spec_symbols"
+    },
+    {
+        "caption": "String Utilities: Decode HeidiSQL password",
+        "command": "decode_heidi_sql"
+    },
+    {
+        "caption": "String Utilities: Insert Internal IP",
+        "command": "string_utilities_int_ip"
+    },
+    {
+        "caption": "String Utilities: Insert External IP",
+        "command": "string_utilities_ext_ip"
+    },
+    {
+        "caption": "String Utilities: Decode JSON",
+        "command": "string_utilities_decode_json"
+    },
+    {
+        "caption": "String Utilities: JSON Escape",
+        "command": "json_escape"
+    },
+    {
+        "caption": "String Utilities: JSON Unescape",
+        "command": "json_unescape"
+    },
+    {
+        "caption": "String Utilities: Pretify SQL",
+        "command": "sql_beautifier"
+    },
+    {
+        "caption": "String Utilities: PHP object to array",
+        "command": "php_object_to_array"
+    }
+]
