@@ -575,7 +575,7 @@ class StringUtilitiesDecodeJsonCommand(sublime_plugin.TextCommand):
                 text = self.view.substr(selection).encode(self.enc())
                 text = str(text, 'utf8')
                 data = json.loads(text, encoding='utf8')
-                output = json.dumps(data, indent=4, sort_keys=True)
+                output = json.dumps(data, indent=4, sort_keys=True, ensure_ascii=False)
 
                 self.view.replace(edit, selection, output)
 
